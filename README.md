@@ -117,3 +117,4 @@ Example:
   cp target/github-plugin/target/github-plugin-*.jar $GERRIT_SITE/plugins
 
 This is my addition from GitHub
+This is the second addition from GitHub
