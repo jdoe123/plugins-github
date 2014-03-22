@@ -116,6 +116,4 @@ Example:
   cp target/github-oauth/target/github-oauth-*.jar $GERRIT_SITE/lib
   cp target/github-plugin/target/github-plugin-*.jar $GERRIT_SITE/plugins
 
-
-
-
+This is my addition from GitHub
